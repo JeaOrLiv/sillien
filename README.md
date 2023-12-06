@@ -1,16 +1,28 @@
-### Hi there 👋
+# Sweet dreams may lead to Nightmares.
+![](https://cdn.discordapp.com/attachments/761562843023278100/1181897495190716476/Untitled51_20231206175831.png?ex=6582bad1&is=657045d1&hm=b1a20ff986e09ffd0d5c727bfed04850d3bfdb4ac0116304501827a799f614a7&)
 
-<!--
-**sillien/sillien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/739b5513-7307-4a3e-9c3d-19ac34364f83/dda2kdq-6cef13b6-520d-4848-a74b-a7c6fc3e5b8a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczOWI1NTEzLTczMDctNGEzZS05YzNkLTE5YWMzNDM2NGY4M1wvZGRhMmtkcS02Y2VmMTNiNi01MjBkLTQ4NDgtYTc0Yi1hN2M2ZmMzZTViOGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zrl1rREzyRR5ymaj-DuhiBm3r1jtdJkJnsCuR7Gi8aA)
 
-Here are some ideas to get you started:
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db4caij-3b946005-777e-4574-8def-02ec6f8e9187.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGI0Y2Fpai0zYjk0NjAwNS03NzdlLTQ1NzQtOGRlZi0wMmVjNmY4ZTkxODcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ty6Afe-IjPhrJmch5nIlpgctXPgl9TYQI5kpI_0hPh8)**(Short intro here in github! ^_^)**![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db4jhov-bd58ed9a-6ad6-45e4-a5f6-f4bf26e137d1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGI0amhvdi1iZDU4ZWQ5YS02YWQ2LTQ1ZTQtYTVmNi1mNGJmMjZlMTM3ZDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E-sRclx8w7_yehMjrt0chchWWTXyrxKub_NgsDBm2B8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db9xlyc-793434c5-0713-4966-9851-cc0cd8b74eb8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGI5eGx5Yy03OTM0MzRjNS0wNzEzLTQ5NjYtOTg1MS1jYzBjZDhiNzRlYjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pJY_ojhT1540EwKK28O_NH3FUbbrX-2XvSZQzrIQQVM)Just call me ***Silly, Sillien*** is optional.
+
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3a5a08b-4878-48af-b76b-8aff5871fc75/dacrhbc-a9ce8e34-39b6-49a5-b844-0b3dae101a97.png/v1/fill/w_19,h_16/lavender_heart_bow_by_diegovainilla_dacrhbc-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYiLCJwYXRoIjoiXC9mXC9kM2E1YTA4Yi00ODc4LTQ4YWYtYjc2Yi04YWZmNTg3MWZjNzVcL2RhY3JoYmMtYTljZThlMzQtMzliNi00OWE1LWI4NDQtMGIzZGFlMTAxYTk3LnBuZyIsIndpZHRoIjoiPD0xOSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1PybTmtlzwiIlIqN830mYHX0HxGGQuadn1JUbhLQGyE) Mostly in 18+ I stay in private areas..
+
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc6fef0c-9d21-42dd-a18b-9573936309d1/da5palh-65273507-8a15-454d-ae2e-0bbb970f8a16.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjNmZlZjBjLTlkMjEtNDJkZC1hMThiLTk1NzM5MzYzMDlkMVwvZGE1cGFsaC02NTI3MzUwNy04YTE1LTQ1NGQtYWUyZS0wYmJiOTcwZjhhMTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TrXzBGCo6VqptVKxxVoJSuRLqrPXOQgVZdRYwfCyybc) **Only coming online in safe serv cause of my friends.**
+
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3a5a08b-4878-48af-b76b-8aff5871fc75/dacrhbc-a9ce8e34-39b6-49a5-b844-0b3dae101a97.png/v1/fill/w_19,h_16/lavender_heart_bow_by_diegovainilla_dacrhbc-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYiLCJwYXRoIjoiXC9mXC9kM2E1YTA4Yi00ODc4LTQ4YWYtYjc2Yi04YWZmNTg3MWZjNzVcL2RhY3JoYmMtYTljZThlMzQtMzliNi00OWE1LWI4NDQtMGIzZGFlMTAxYTk3LnBuZyIsIndpZHRoIjoiPD0xOSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1PybTmtlzwiIlIqN830mYHX0HxGGQuadn1JUbhLQGyE) Reminder for all of you, I am very inactive
+
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc6fef0c-9d21-42dd-a18b-9573936309d1/da5palh-65273507-8a15-454d-ae2e-0bbb970f8a16.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjNmZlZjBjLTlkMjEtNDJkZC1hMThiLTk1NzM5MzYzMDlkMVwvZGE1cGFsaC02NTI3MzUwNy04YTE1LTQ1NGQtYWUyZS0wYmJiOTcwZjhhMTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TrXzBGCo6VqptVKxxVoJSuRLqrPXOQgVZdRYwfCyybc) whenever I feel extremely **down.** But I'm sure ill be ok in any seconds.
+
+
+**Full versionis in my rentry, feel free to check it out! ^__^**
+
+***(!! also good in light mode. <3 !!)***
+
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2920b107-ff04-45f0-8cee-f15c7e0e729d/ddmkg0b-2f265cf1-b468-4614-91c3-db1f4e7076ea.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI5MjBiMTA3LWZmMDQtNDVmMC04Y2VlLWYxNWM3ZTBlNzI5ZFwvZGRta2cwYi0yZjI2NWNmMS1iNDY4LTQ2MTQtOTFjMy1kYjFmNGU3MDc2ZWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HLnFjCnaefXo21tT1VEdBVkWGIkwgzI4fKyLKwFyLMs)
+
+*𝓣𝓱𝓪𝓷𝓴 𝔂𝓸𝓾 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰 𝓲𝓽..!*
+
+
