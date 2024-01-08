@@ -3,4 +3,5 @@
 
 > 𝔀𝓸𝓻𝓴 𝓲𝓷 𝓹𝓻𝓸𝓰𝓻𝓮𝓼𝓼, 𝓶𝓲𝓰𝓱𝓽 𝓽𝓪𝓴𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓽𝓲𝓶𝓮!
 >
->> 𝒜𝓁𝓈𝑜 𝓂𝓎 𝓃𝒶𝓂𝑒 𝒾𝓈 𝒮𝒾𝓁𝓁𝓎, 𝒮𝒾𝓁𝓁𝒾𝑒𝓃 𝒾𝓈 𝑜𝓅𝓉𝒾𝑜𝓃𝒶𝓁. 𝒿𝓊𝓈𝓉 𝐹𝓎𝒾.
+*The name is Silly or Sillien. Interacting with me can be pretty unpredictable but I'll try to make it fun/ >_<*
+>> ![](https://emoji.discadia.com/emojis/271edadb-b0f6-4a2a-bcb4-71cd02b49bff.png)
