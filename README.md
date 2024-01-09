@@ -1,7 +1,7 @@
+<h1 img align="center" src="https://64.media.tumblr.com/a8add81153a13c582ab3119d1a663ea6/8b2dc7c4935f0909-22/s640x960/46ee0fb2e8672e3f65869605c78b8e53f3dc4827.gifv"/>
 
-# ![](https://64.media.tumblr.com/488ef71b10828fcf8816b1b55c03badc/8213d53445950917-e9/s500x750/a62671fd2ebc9a0479683347d84e4c66b6777cdd.gifv)Writing. . .
-
-> 𝔀𝓸𝓻𝓴 𝓲𝓷 𝓹𝓻𝓸𝓰𝓻𝓮𝓼𝓼, 𝓶𝓲𝓰𝓱𝓽 𝓽𝓪𝓴𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓽𝓲𝓶𝓮!
+> ![](https://64.media.tumblr.com/ab3e05767764aa42d524246fea9bacea/51336c1826dd4ba7-4c/s1280x1920/4bdce8560771699e951738a7a1b6fceb36f972a1.gifv)
 >
-*The name is Silly or Sillien. Interacting with me can be pretty unpredictable but I'll try to make it fun/ >_<*
->> ![](https://emoji.discadia.com/emojis/271edadb-b0f6-4a2a-bcb4-71cd02b49bff.png)
+𝔀𝓸𝓻𝓴 𝓲𝓷 𝓹𝓻𝓸𝓰𝓻𝓮𝓼𝓼, 𝓶𝓲𝓰𝓱𝓽 𝓽𝓪𝓴𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓽𝓲𝓶𝓮!
+>> *The name is Silly or Sillien. Interacting with me can be pretty unpredictable but I'll try to make it fun/ >_<*
+
